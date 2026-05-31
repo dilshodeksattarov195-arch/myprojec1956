@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productvender",
+        "uuid": 7440624,
+        "checksum": "0qakm9"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
